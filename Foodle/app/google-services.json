@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "664529919903",
-    "firebase_url": "https://foodle-974b4.firebaseio.com",
-    "project_id": "foodle-974b4",
-    "storage_bucket": "foodle-974b4.appspot.com"
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBo97Oc2wVYYBAa0XAAzSJnLV6kar-BKLM"
+          "current_key": ""
         }
       ],
       "services": {
